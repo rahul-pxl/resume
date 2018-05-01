@@ -23,7 +23,7 @@ body {
  background:#fff;
  position:relative;
  width:21cm;
- height:50.68cm;
+ height:58.68cm;
  display:block;
  page-break-after:auto;
  margin: 0 auto;
@@ -413,7 +413,8 @@ h4[data-v-31798ddc] {
  text-transform:uppercase
 }
 #template #resume-body .experience[data-v-1f07d728] {
- margin:10px 0 20px 50px
+ margin:10px 0 20px 50px;
+ border-bottom: 1px solid #f3f3f3;
 }
 #template #resume-body .experience ul[data-v-1f07d728] {
  margin:5px 0 0
