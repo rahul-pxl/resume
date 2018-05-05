@@ -358,7 +358,8 @@ h4[data-v-31798ddc] {
 }
 #template p[data-v-1f07d728] {
  margin:0;
- font-size:12px
+ font-size: 14px;
+ line-height: 1.5;
 }
 #template ul li[data-v-1f07d728] {
  color:#2e7999;
@@ -396,7 +397,7 @@ h4[data-v-31798ddc] {
  display:-webkit-box;
  display:-ms-flexbox;
  display:flex;
- margin-top:20px;
+ margin-top:10px;
  font-size:14px
 }
 #template #resume-header #header-left #info-flex span[data-v-1f07d728] {
@@ -521,4 +522,7 @@ h4[data-v-31798ddc] {
  top:50%;
  -webkit-transform:translateY(-50%);
  transform:translateY(-50%)
+}
+.fa-2x {
+    font-size: 1.2em !important;
 }
